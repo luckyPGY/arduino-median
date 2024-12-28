@@ -9,3 +9,4 @@ This project features a temp/humid. sensor and also when it's warm(22°C) it bee
   <li>Potentiometer</li>
   <li>Some wires</li>
 </ul>
+<img src="result.jpg" height="200" width="300">
